@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tntstuffmod",
+  "name": "TNT Stuff",
+  "description": "Adds extra TNT stuff",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["rnielsen", "isabeln", "alexander_panda"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
